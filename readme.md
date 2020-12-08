@@ -34,9 +34,9 @@ make install
 
 See the [examples directory](examples/).
 
- * `examples/hello_world.txt.rc5_32-12-16`
- * `examples/success-3195027_640.jpg.rc5_32-12-16`
- * `examples/rc5.zip.rc5_32-12-16`
+ * `examples/hello_world.txt.rc5_16-12-16`
+ * `examples/success-3195027_640.jpg.rc5_32-12-32`
+ * `examples/invalid.png`
 
 
 ### Usage by Example
